@@ -1,1 +1,1 @@
-# This is a weather assistant using OpenAI function call and OpenWeatherMap API
+# This is a Weather Assistant using OpenAI function call and OpenWeatherMap API
