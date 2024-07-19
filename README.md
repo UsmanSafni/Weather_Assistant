@@ -1,0 +1,1 @@
+# This is a weather assistant using OpenAI function call and OpenWeatherMap API
