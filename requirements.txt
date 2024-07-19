@@ -1,0 +1,5 @@
+ipykernel
+openai==0.28
+gradio
+requests
+python-dotenv
